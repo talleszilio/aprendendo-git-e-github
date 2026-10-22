@@ -1,1 +1,2 @@
 teste de adicionar o primeiro texto
+adicionando o segundo texto do arquivo
