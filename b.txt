@@ -1,0 +1,1 @@
+Essa linha foi adicionada na branch_teste no arquivo b

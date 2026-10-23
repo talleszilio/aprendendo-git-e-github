@@ -1,2 +1,3 @@
 teste de adicionar o primeiro texto
 adicionando o segundo texto do arquivo
+Essa linha foi adicionada na branch_teste no arquivo a
