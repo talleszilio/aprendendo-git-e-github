@@ -17,7 +17,7 @@ Git:
 - Sempre que você alterar alguma coisas nos arquivos você precisa adicionar isso com git add e depois realizar um commit para deixar salvo.
 - Também é possível criar uma ou mais branch, que são linhas paralelas da linha do tempo principal, e com isso você pode trabalhar com várias frentes sem alterar o projeto principal.
 - É possível dar um merge entre as branches criadas, e caso existe conflito, é preciso que você resolva os conflitos e depois dê o merge, que significa unir a branch main ou master com a branch paralela que você estava trabalhando.
-
+- O .gitignore só funciona para arquivos que ainda não foram rastreados. Se você já deu git add e git commit em um arquivo e só depois colocou o nome dele no .gitignore, o Git ignorará a regra e continuará versionando esse arquivo.
 
 - Comandos git utilizados:
 - git log
