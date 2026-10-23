@@ -1,1 +1,2 @@
 vamos fingir que é o mesmo texto
+Essa linha foi adicionada na branch_teste no arquivo b

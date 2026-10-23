@@ -1,3 +1,4 @@
 teste de adicionar o primeiro texto
 adicionando o segundo texto do arquivo
 esta linha foi modificada no ramo master ou main
+Essa linha foi adicionada na branch_teste no arquivo a
